@@ -5,7 +5,8 @@
 - 📫 How to reach me let's see in future
 - let's hook up
 - live and let live
-- Bug Fixes has been resolved 
+- Bug Fixes has been resolved
+- Let' review the above content for confirmation 
 
 <!---
 ApexPreedator/ApexPreedator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
